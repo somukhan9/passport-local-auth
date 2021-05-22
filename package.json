@@ -5,7 +5,6 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.js",
-    "heroku-prebuild": "yarn install",
     "dev": "nodemon server.js"
   },
   "devDependencies": {
